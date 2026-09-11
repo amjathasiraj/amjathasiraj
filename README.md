@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @amjathasiraj
-- 🌱 I’m currently learning python, a newbie btw :)
+- 
 
 
 <!---
